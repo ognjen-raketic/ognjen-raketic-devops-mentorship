@@ -6,9 +6,9 @@ Hey there, I am currently learning about DevOps and wanna change career. See you
 
 Currently work on git and read this books:
 
-*   Tomo Krajina - Uvod u Git
-*   Scott Chacon & Ben Straub - Git Pro
-*   Git Notes for professionals
+*   Tomo Krajina - Uvod u Git - Amazing stuff, i like it. Can learn a lot from this
+*   Scott Chacon & Ben Straub - Git Pro - Amazing book, you can find this book on your native language
+*   Git Notes for professionals - Probably the most beginner friendly book for Git
 *   My notes
 *   15 Git Commands You May Not Know
 *   Git Flow vs Github Flow

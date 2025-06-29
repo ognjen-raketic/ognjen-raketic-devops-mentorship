@@ -1,0 +1,17 @@
+#Git commands I use during the first week
+
+git init - initialisation of repo
+git add - add repo to staged mode
+git commit - add comments
+git pull - pull repository from remote to local
+git branch -m - change name of branch
+git branch - New branch
+git whatchanged - what is changed during the commiting
+gitk - graph of gits
+git -v - git version that is installed on your computer
+git status - status of commit
+git log - see all commits
+git merge - merge branches
+git push - push from local to remote repository
+
+# to be continued
